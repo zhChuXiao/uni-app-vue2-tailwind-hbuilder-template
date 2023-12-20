@@ -60,8 +60,3 @@ DCloud-HBuilderX团队提供了对应的插件，可以去
 
 [tailwindcss-miniprogram-preset](https://github.com/sonofmagic/tailwindcss-miniprogram-preset)
 
-## Bugs & Issues
-
-目前这个插件正在快速的开发中，如果遇到 `Bug` 或者想提出 `Issue`
-
-[欢迎提交到此处](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin/issues)
