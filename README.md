@@ -1,23 +1,5 @@
 # uni-app-vue2-tailwind-hbuilder-template
 
-注意(重要)：此版本由于目前 hbuilderX 含(alpha)版本，针对 `webpack` 打包的项目，只能使用 `postcss7` 无法使用最新的 `postcss8`，导致这个模板只能使用 `tailwindcss v2`，相比 `tailwindcss v3`，失去了许多的功能特性。所以建议你使用:
-
-- vue3 vite vscode模板 [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template)  
-- vue2 vscode模板 [uni-app-vue2-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-vscode-template)
-- vue3 HbuilderX[uni-app-vue3-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue3-tailwind-hbuilder-template)
-
-- [uni-app-vue2-tailwind-hbuilder-template](#uni-app-vue2-tailwind-hbuilder-template)
-  - [模板介绍](#模板介绍)
-  - [使用方式](#使用方式)
-  - [注意](#注意)
-  - [HbuilderX 智能提示工具](#hbuilderx-智能提示工具)
-  - [Related projects](#related-projects)
-    - [插件核心](#插件核心)
-    - [CLI 工具](#cli-工具)
-    - [模板 template](#模板-template)
-    - [预设 tailwindcss preset](#预设-tailwindcss-preset)
-  - [Bugs \& Issues](#bugs--issues)
-
 这是一个使用 `hbuilderx` + `uni-app` + `vue2` + `tailwind` 构建的小程序模板。可以直接在 `hbuilderx` 中导入运行。
 
 ## 使用方式
